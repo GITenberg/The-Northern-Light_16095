@@ -1,0 +1,40 @@
+_repo: The-Northern-Light_16095
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Lowrey, D. M., Mrs.
+    alias: Lowrey, Mrs. D. M.
+    gutenberg_agent_id: '7459'
+    url: http://www.gutenberg.org/2009/agents/7459
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Werner, E.
+    aliases:
+    - Werner, Elisabeth
+    - Burstenbinder, Elisabeth
+    - Bürstenbinder, Elisabeth
+    - Werner, Ernest
+    birthdate: 1838
+    deathdate: 1918
+    gutenberg_agent_id: '7823'
+    url: http://www.gutenberg.org/2009/agents/7823
+    wikipedia: http://de.wikipedia.org/wiki/Elisabeth_B%C3%BCrstenbinder
+description: ''
+gutenberg_issued: '2005-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16095'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PT'
+- !lcsh 'Dime novels'
+- !lcsh 'Germany -- Fiction'
+title: The Northern Light
+url: http://www.gutenberg.org/ebooks/16095
