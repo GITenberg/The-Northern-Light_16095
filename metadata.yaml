@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7823
     wikipedia: http://de.wikipedia.org/wiki/Elisabeth_B%C3%BCrstenbinder
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16095#The-Northern-Light
 gutenberg_issued: '2005-06-20'
 gutenberg_type: Text
 identifiers:
